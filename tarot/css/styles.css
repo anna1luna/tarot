@@ -61,7 +61,7 @@ h1 {
 }
 
 .main {
-  background-image: url('/img/background.jpg');
+  background-image: url('/tarot/img/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 675px;
@@ -183,7 +183,7 @@ h1 {
 }
 
 .countdown {
-  background-image: url('/img/background.jpg');
+  background-image: url('/tarot/img/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 675px;
@@ -225,7 +225,7 @@ h1 {
 }
 
 .result {
-  background-image: url('/img/background.jpg');
+  background-image: url('/tarot/img/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 675px;
